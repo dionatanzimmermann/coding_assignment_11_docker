@@ -1,4 +1,5 @@
-
+# Cloning the GitHUB repository
+git clone https://github.com/dionatanzimmermann/coding_assignment_11_docker.git
 
 # Building the docker container image
 docker build -t zimmermann_dionatan_coding_assignment11 .
